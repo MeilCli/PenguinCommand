@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2050
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PenguinCommand.NETCore", "PenguinCommand.NETCore\PenguinCommand.NETCore.csproj", "{3121648A-3DBD-40C5-8492-35DDFD6351A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PenguinCommand.NETCore", "PenguinCommand.NETCore\PenguinCommand.NETCore.csproj", "{3121648A-3DBD-40C5-8492-35DDFD6351A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PenguinCommand.NETStandard", "PenguinCommand.NETStandard\PenguinCommand.NETStandard.csproj", "{DCE6AB12-F57F-4F18-B505-8C15F0A71853}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PenguinCommand.NETStandard", "PenguinCommand.NETStandard\PenguinCommand.NETStandard.csproj", "{DCE6AB12-F57F-4F18-B505-8C15F0A71853}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{51A6F787-165E-4091-9293-5BFCBA775B14}"
 	ProjectSection(SolutionItems) = preProject
 		Directory.build.props = Directory.build.props
+		LICENSE.txt = LICENSE.txt
+		README.md = README.md
 	EndProjectSection
 EndProject
 Global
